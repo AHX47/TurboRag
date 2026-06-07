@@ -1,9 +1,10 @@
-
-**TurboRag** is a fully offline, low‑CPU, low‑RAM RAG (Retrieval Augmented Generation) engine. It combines:
+# TurboRag
 <img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/3420df50-3880-4e64-8514-6dfdcb0f6994" />
+**TurboRag** is a fully offline, CPU, RAM RAG (Retrieval Augmented Generation) engine. It combines:
 
-- **TurboVec** – a quantized (Q4) vector index (8× smaller than float32, faster than FAISS)  
-- **TurboQuant** – a lightweight quantization toolkit for embeddings and LLMs  
+- **TurboVec** – a quantized (Q4) vector index (8× smaller than float32, faster than FAISS)
+- <img width="1024" height="297" alt="image" src="https://github.com/user-attachments/assets/a428a12f-c386-4756-800a-d95e5c344b77" />
+- **TurboQuant** – a lightweight quantization toolkit algorithms for embeddings and LLMs  
 - **llama‑cpp‑python** – runs all models as Q4_K_M GGUF files on CPU  
 - **FastAPI** – optional REST API  
 - **FastMCP** – MCP server for agent integration  
