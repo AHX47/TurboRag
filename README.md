@@ -12,7 +12,7 @@
 
 > **Projects referenced in this README:**  
 > - [TurboVec](https://github.com/RyanCodrai/turbovec) – core quantized vector index  
-> - [TurboQuant](https://github.com/RyanCodrai/turboquant) – quantization toolkit for models
+> - [TurboQuant](https://arxiv.org/abs/2504.19874) – quantization Algorithm (vects embedding ) for models
 
 ---
 
